@@ -21,3 +21,12 @@ DeviceLogonEvents
 ## Evidence
 
 <img width="1438" height="705" alt="image" src="https://github.com/user-attachments/assets/d4b5dd43-7901-4008-84ba-1a4cd2f2de31" />
+
+## Result
+
+No successful authentication events were observed from the attacker IP addresses.
+
+## Conclusion
+
+The activity was limited to unauthorized access attempts only.
+No evidence of system compromise was identified.
