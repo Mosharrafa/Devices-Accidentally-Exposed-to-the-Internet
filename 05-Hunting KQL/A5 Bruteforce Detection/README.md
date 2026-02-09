@@ -70,3 +70,6 @@ This pattern is consistent with automated retry logic used by scanning or brute-
 
 ### Conclusion
 The combined evidence (repeated failures, multiple source IPs, common username targeting, and burst timing) confirms that the device was subjected to automated RDP brute-force probing after being exposed to the public internet.
+
+<img width="1487" height="776" alt="image" src="https://github.com/user-attachments/assets/469e7807-ed41-4ce9-adaf-4d81519c8926" />
+
