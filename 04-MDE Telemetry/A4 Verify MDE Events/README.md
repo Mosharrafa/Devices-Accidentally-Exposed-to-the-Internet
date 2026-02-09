@@ -38,4 +38,7 @@ DeviceInfo
 | where DeviceName == "mde-test-2"
 | where IsInternetFacing == true
 | order by Timestamp desc
+```
+
+<img width="1486" height="750" alt="image" src="https://github.com/user-attachments/assets/a8eedb73-2e85-4267-a063-141cc4efa3f4" />
 
