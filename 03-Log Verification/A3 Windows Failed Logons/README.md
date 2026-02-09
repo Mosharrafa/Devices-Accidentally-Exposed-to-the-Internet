@@ -14,3 +14,8 @@ The presence of repeated failed logon events confirms that the machine is receiv
 
 ## Importance
 These logs serve as the primary evidence source for later investigation in Microsoft Defender for Endpoint and Microsoft Sentinel.
+
+## Evidence
+![Failed Logons](Scene1.2eventidsvm.png)
+![Logon Details](Scene1.2eventidsvmdetails.png)
+
