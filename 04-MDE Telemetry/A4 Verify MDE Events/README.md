@@ -17,6 +17,14 @@ EDR telemetry allows analysts to investigate attacker behavior, correlate events
 
 
 
+## Evidence
+![Device Overview](MDETEST2Overview.png)
+
+
+![Timeline Events](MDETEST2Timeline.png)
+
+<br>
+
 ## Timeline Analysis (KQL)
 
 To validate the device exposure from a hunting perspective, an advanced hunting query was executed. 
