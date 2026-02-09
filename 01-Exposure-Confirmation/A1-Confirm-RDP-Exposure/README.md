@@ -1,4 +1,4 @@
-# A1 — Confirm RDP Exposure
+# A1 Confirm RDP Exposure
 
 ## Summary
 The virtual machine **MDE-TEST-2** was reviewed to verify whether Remote Desktop (RDP) access was available from the public internet.
